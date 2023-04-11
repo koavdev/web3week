@@ -1,2 +1,3 @@
 # web3week
-A repository of Web3 Week' projects by Luiz Tools.
+A repository for Web3 Week by Luiz Tools.
+
